@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杨晋的博客
-brief-intro: Coder
+brief-intro: #Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ymld.github.io" # the base hostname & protocol for your site
 
